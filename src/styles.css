@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.error{
+    color: #f00;
+}
+
+.dragarea{
+    font-size: 24px;
+    border: 3px solid #bbb; padding: 20px ;
+    background-color: #fff;
+    color: #bbb;
+}
+.droparea{
+    font-size: 24px;
+    border: 3px dashed #bbb; padding: 20px ;
+    background-color: #eff;
+    color: #aaa;
+}
